@@ -1,4 +1,4 @@
 # first-demo
-This is my first Github Repository
+This is my first Git Repository.
 <br>
 Author : Ujjal Dey
